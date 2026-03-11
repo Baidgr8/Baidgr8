@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Babafemi Ikujebi
 
-Junior SOC Analyst | SIEM & Windows Log Analysis | Threat Detection | Incident Investigation
+
+### Junior SOC Analyst | SIEM & Windows Log Analysis | Threat Detection | Incident Investigation
+
 
 I am an Information Technology professional with a **BSc in Information Technology** and **11 years of experience teaching Computer Science and IT**. I also hold a **Postgraduate Diploma in Education**, which has strengthened my ability to communicate complex technical concepts clearly and systematically.
 
@@ -110,7 +112,11 @@ Investigated security alerts in a simulated SOC environment and determined attac
 # 🏅 Certifications & Training
 
 ### Certifications
-- ISC2 Certified in Cybersecurity (CC)
+- ISC2 Certified in Cybersecurity (CC) <a href="https://www.isc2.org/">
+  <img src="https://img.shields.io/badge/-ISC2%20CC-000000?style=for-the-badge&logo=isc2&logoColor=white" />
+</a>
+
+
 
 ### Cisco Cybersecurity Courses
 - <a href="https://www.credly.com/badges/807086e5-0d0a-48a1-9c7f-f0376ab0b25c" target="_blank" rel="noopener noreferrer">Endpoint Security</a>
@@ -120,7 +126,9 @@ Investigated security alerts in a simulated SOC environment and determined attac
 - <a href="https://www.credly.com/badges/0da7269d-5028-4c34-a155-81729c3a3e7f)" target="_blank" rel="noopener noreferrer">Introduction to Cybersecurity</a>
 
 ### Practical Training
-- TryHackMe SOC Level 1
+- TryHackMe SOC Level 1 <a href="https://tryhackme.com/p/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/-TryHackMe-4a4a4a?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
 ---
 
@@ -137,11 +145,13 @@ I am currently expanding my knowledge in:
 
 # 📫 Connect With Me
 
-LinkedIn: <a href="https://www.linkedin.com/in/babafemi-ikujebi-6a2757bb/" target="_blank" rel="noopener noreferrer">
-  Vist my Profile
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a><a href="https://www.linkedin.com/in/babafemi-ikujebi-6a2757bb/" target="_blank" rel="noopener noreferrer">
+  Click here to vist my profile
 </a>
 
-Email: ## ikujebibabafemi@gmail.com
+<img src="https://img.shields.io/badge/-Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>ikujebibabafemi@gmail.com
 
 ---
 
