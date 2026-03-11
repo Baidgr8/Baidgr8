@@ -17,6 +17,7 @@ I am currently seeking **Junior SOC Analyst / SOC Level 1 opportunities (Remote 
 # 🛡️ Cybersecurity Skills
 
 ### Security Operations
+
 - Security Incident Investigation
 - Threat Hunting
 - SIEM Log Analysis
