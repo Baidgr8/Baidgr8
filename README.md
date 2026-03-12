@@ -53,7 +53,7 @@ I am currently seeking **Junior SOC Analyst / SOC Level 1 opportunities (Remote 
 
 Below are structured security investigations I completed during hands-on cybersecurity training.
 
-### 1️⃣ Phishing Email Investigation
+### <a href="https://github.com/Baidgr8/Phishing-Email-Investigation-Report/blob/main/README.md>1️⃣ Phishing Email Investigation<a/>
 Analyzed malicious email headers, attachments, and indicators of compromise.
 
 **Skills demonstrated**
