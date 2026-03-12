@@ -73,7 +73,7 @@ Investigated authentication logs to detect a brute-force attack leading to remot
 
 ---
 
-### 3️⃣ Living-Off-The-Land (LOLBAS) Malware Delivery
+### < a href= "https://github.com/Baidgr8/Advanced-LOLBAS-Detection-Analysis/blob/main/README.md"3️⃣ Living-Off-The-Land (LOLBAS) Malware Delivery</a>
 Detected malicious use of Windows utilities such as `certutil.exe` to download payloads.
 
 **Skills demonstrated**
