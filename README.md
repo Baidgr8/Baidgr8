@@ -63,7 +63,7 @@ Analyzed malicious email headers, attachments, and indicators of compromise.
 
 ---
 
-### <a href="https://github.com/Baidgr8/SOC-Brute-Force-RDP-Asyncrat-Investigation/blob/main/README.md">2️⃣ Brute Force Attack Detection & RDP Compromise</a>
+### <a href="https://github.com/Baidgr8/SOC-Brute-Force-RDP-Asyncrat-Investigation/blob/main/README.md">2️⃣ Brute Force to RDP Compromise: SIEM & Windows Log Investigation of AsyncRAT C2 Activity</a>
 Investigated authentication logs to detect a brute-force attack leading to remote desktop access.
 
 **Skills demonstrated**
