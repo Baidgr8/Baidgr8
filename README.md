@@ -83,7 +83,7 @@ Detected malicious use of Windows utilities such as `certutil.exe` to download p
 
 ---
 
-### 4️⃣ Proactive Threat Hunt Using Splunk
+### 4️⃣ Proactive Threat Hunt – Detecting Evasive Post-Exploitation
 Performed threat hunting to detect suspicious process execution and external payload retrieval.
 
 **Skills demonstrated**
