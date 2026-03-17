@@ -93,7 +93,7 @@ Performed threat hunting to detect suspicious process execution and external pay
 
 ---
 
-### 5️⃣ SOC Triage Investigation (TryHackMe SOC Level 1)
+### 5️⃣ Full-Spectrum Incident Response: Neutralizing a Multi-Stage Advanced Persistent Threat (APT) Simulation
 Investigated security alerts in a simulated SOC environment and determined attacker behavior.
 
 **Skills demonstrated**
