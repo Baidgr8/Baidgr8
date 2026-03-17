@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Babafemi Ikujebi
 
 
-### Junior SOC Analyst | SIEM & Windows Log Analysis | Threat Detection | Incident Investigation
+### Certified Cybersecurity Professional (ISC2 CC) | SIEM & Windows Log Analysis | Threat Detection | Incident Investigation
 
 
 I am an Information Technology professional with a **BSc in Information Technology** and **11 years of experience teaching Computer Science and IT**. I also hold a **Postgraduate Diploma in Education**, which has strengthened my ability to communicate complex technical concepts clearly and systematically.
